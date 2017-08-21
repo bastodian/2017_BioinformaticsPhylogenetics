@@ -1,0 +1,96 @@
+Specimen Number,Genus,Species,Island,Collection Location,Collection Island,Other Location Name,Coordinates,Habitat,Latitude,Longitude,Depth_m,Collector,Date,Tissue sample,In situ photos,Skeleton photos,Comments
+DB-GU-0041,Acropora,aculeus,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425256,144.799568,15,Dave Burdick,2-Oct-15,Yes,Yes,,
+DB-GU-0006,Acropora,aspera,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.246209,144.685648,1,Dave Burdick,5 Feb 2015,Yes,,Yes,
+DB-GU-0009,Acropora,aspera,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.246432,144.685506,2,Dave Burdick,13 Feb 2014,Yes,Yes,,
+DB-GU-0012,Acropora,austera,Guam,Pugua Patch Reef (Double Reef),Guam,,,"Semi-exposed fringing reef, partially protected by double reef formation; specimen found in depression in reef",13.597535,144.835953,2.5,Dave Burdick,7 May 2015,Yes,Yes,,
+DB-GU-0028,Acropora,cerealis,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.426145,144.799384,5,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0005,Acropora,cf. acuminata,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.246303,144.685392,1.5,Dave Burdick,5 Feb 2015,Yes,,Yes,"Thought was Randall's interpretation of A. acuminata, but is likely A. intermedia/nobilis"
+DB-GU-0011,Acropora,cf. acuminata,Guam,Pugua Patch Reef (Double Reef),Guam,,,"Semi-exposed fringing reef, partially protected by double reef formation; specimen found in depression in reef",13.597679,144.836292,2,Dave Burdick,7 May 2015,Yes,Yes,,"Thought was Randall's interpretation of A. acuminata, but is likely A. intermedia/nobilis"
+DB-GU-0017,Acropora,cf. azurea,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef front,13.426772,144.798592,1.5,Dave Burdick,21 May 2015,Yes,Yes,,
+DB-GU-0016,Acropora,cf. cophodactyla,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef front,13.426691,144.798407,1.5,Dave Burdick,21 May 2015,Yes,Yes,,Possibly A. valida
+DB-GU-0019,Acropora,cf. gemmifera,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef front,13.426192,144.798492,4,Dave Burdick,21 May 2015,Yes,Yes,,
+DB-GU-0021,Acropora,cf. globiceps,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef front,13.426127,144.798282,4,Dave Burdick,21 May 2015,Yes,Yes,,
+DB-GU-0051,Acropora,cf. granulosa,Guam,"Big Blue Shoals, Apra Harbor",,,,,13.447864,144.658467,20,Dave Burdick,1-Dec-16,Yes,Yes,,Occurred on west-facing slope; collection depth estimated (likely between 18-22)
+DB-GU-0022,Acropora,cf. humilis,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef front,13.425989,144.798850,4,Dave Burdick,21 May 2015,Yes,Yes,,
+DB-GU-0068,Acropora,cf. intermedia,Guam,Double Reef,,,,,13.597647,144.835851,13,Dave Burdick,12-Dec-16,Yes,Yes,,"May be Dick's ""acuminata"""
+DB-GU-0024,Acropora,cf. microclados,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425001,144.799200,16,Dave Burdick,2 Sept 2015,Yes,Yes,,In situ photos taken after specimen was removed from colony
+DB-GU-0038,Acropora,cf. multiacuta,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.426747,144.798487,1,Dave Burdick,2-Oct-15,Yes,Yes,,
+DB-GU-0040,Acropora,cf. valida,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.426698,144.798325,1.5,Dave Burdick,2-Oct-15,Yes,Yes,,
+DB-GU-0008,Acropora,cf. virgata,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.261321,144.660598,2,Dave Burdick,6 Feb 2015,Yes,,Yes,Possibly A. muricata
+DB-GU-0066,Acropora,granulosa,Guam,"Western Shoals, Apra Harbor",,,,,13.449742,144.654391,15,Dave Burdick,9-Dec-16,Yes,Yes,,
+DB-GU-0049,Acropora,latistella,Guam,"Big Blue Shoals, Apra Harbor",,,,,13.447350,144.659510,1.5,Dave Burdick,1-Dec-16,Yes,No,,Occurred on reef flat along west side of shoals
+DB-GU-0048,Acropora,muricata,Guam,"Big Blue Shoals, Apra Harbor",,,,,13.447350,144.659510,1.5,Dave Burdick,1-Dec-16,Yes,No,,Occurred on reef flat along west side of shoals
+DB-GU-0025,Acropora,quelchi,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425629,144.799356,15,Dave Burdick,2 Sept 2015,Yes,Yes,,In situ photos taken after specimen was chiseled free from substrate
+DB-GU-0026,Acropora,selago,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425455,144.799455,10,Dave Burdick,2 Sept 2015,Yes,Yes,,In situ photos taken after specimen was chiseled free from substrate
+DB-GU-0036,Acropora,sp.,Guam,Apra Harbor Mound U9,Guam,,,Lagoonal patch reef,13.449148,144.651751,20,Dave Burdick,22-Sep-15,No,No,,"Specimen was recently dead, little algal growth on white, tissue-less skeleton; may be part of same colony as specimen DB-GU-037; in situ photos available of living colonies found within 0.5 m of collected specimens"
+DB-GU-0037,Acropora,sp.,Guam,Apra Harbor Mound U9,Guam,,,Lagoonal patch reef,13.449148,144.651751,20,Dave Burdick,22-Sep-15,No,No,,"Specimen was recently dead, little algal growth on white, tissue-less skeleton; may be part of same colony as specimen DB-GU-036; in situ photos available of living colonies found within 0.5 m of collected specimens"
+DB-GU-0055,Acropora,sp.,Guam,Hap's Reef,,,,,13.394395,144.653884,14,Dave Burdick,6-Dec-16,Yes,Yes,,"On reef terrace adjacent to base of Hap's Reef, north side"
+DB-GU-0063,Acropora,sp.,Guam,"Mound U9, Apra Harbor",,,,,13.449313,144.651871,16,Dave Burdick,9-Dec-16,Yes,Yes,,Branch tip only; entire specimen preserved in ethanol
+DB-GU-0064,Acropora,sp.,Guam,"Mound U9, Apra Harbor",,,,,13.449373,144.651886,16,Dave Burdick,9-Dec-16,Yes,Yes,,
+DB-GU-0015,Acropora,sp. (“obtusicaulis”?),Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef front,13.426634,144.798245,1.5,Dave Burdick,21 May 2015,Yes,Yes,,
+DB-GU-0042,Acropora,surculosa,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.426192,144.798556,5,Dave Burdick,2-Oct-15,Yes,Yes,,
+DB-GU-0069,Acropora,vaughani,Guam,"Gabgab II, Apra Harbor",,,,,13.445736,144.643812,22,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0027,Acropora,verweyi,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.426350,144.799358,3,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0020,Acropora ,sp.,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef front,13.426286,144.798321,3,Dave Burdick,21 May 2015,Yes,Yes,,
+DB-GU-0084a,Ctenactis,echinata,Guam,"Ski Beach, Apra Harbor",,,,,13.454294,144.666083,15,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0084b,Ctenactis,echinata,Guam,"Ski Beach, Apra Harbor",,,,,13.454294,144.666083,15,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0074,Cyphastrea,agassizi,Guam,"Cabras Breakwater, Apra Harbor",,,,,13.458756,144.631273,9,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0029,Cyphastrea,serailia,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425113,144.799369,13,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0046,Echinophyllia,aspera,Guam,"Big Blue Shoals, Apra Harbor",,,,,13.447915,144.658463,20,Dave Burdick,1-Dec-16,Yes,Yes,,Occurred on west-facing slope; collection depth estimated (likely between 18-22)
+DB-GU-0033,Favia,cf. favus,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425203,144.799595,13,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0035,Favia,danae,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425283,144.799675,13,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0034,Favia,favus,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425189,144.799798,13,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0085,Fungia,concinna,Guam,"Ski Beach, Apra Harbor",,,,,13.454250,144.665974,15,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0061,Fungia,sp.,Guam,"Mound U9, Apra Harbor",,,,,13.449145,144.651848,15,Dave Burdick,9-Dec-16,Yes,Yes,,
+DB-GU-0043,Galaxea,fascicularis,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425242,144.799478,12,Dave Burdick,2-Oct-15,Yes,Yes,,
+DB-GU-0082,Herpolitha,limax,Guam,"Ski Beach, Apra Harbor",,,,,13.456217,144.665928,8,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0060a,Hydnophora,cf. tenella,Guam,"Mound U9, Apra Harbor",,,,,13.449072,144.651824,15,Dave Burdick,9-Dec-16,Yes,Yes,,
+DB-GU-0060b,Hydnophora,cf. tenella,Guam,"Mound U9, Apra Harbor",,,,,13.449072,144.651824,15,Dave Burdick,9-Dec-16,Yes,Yes,,
+DB-GU-0071,Leptoseris,"cf. ""rubra""",Guam,"Gabgab II, Apra Harbor",,,,,13.445453,144.643438,17,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0053,Leptoseris,incrustans,Guam,Hap's Reef,,,,,13.394169,144.653664,13,Dave Burdick,6-Dec-16,Yes,Yes,,"Growing on shaded, vertical face on south side of reef"
+DB-GU-0057,Leptoseris,mycetoseroides,Guam,Hap's Reef,,,,,13.394157,144.653679,13,Dave Burdick,6-Dec-16,Yes,Yes,,"Growing on shaded, vertical face on south side of reef"
+DB-GU-0032,Montastrea,magnistellata,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425140,144.799685,13,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0044,Montipora,cf. studeri,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425573,144.799294,8,Dave Burdick,2-Oct-15,No,Yes,,"Ethanol evaporated from tissue sample vial, sample lost"
+DB-GU-0030,Montipora,myriopthalma,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425091,144.799539,14,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0075,Montipora,sp.,Guam,"Cabras Breakwater, Apra Harbor",,,,,13.458615,144.630912,9,Dave Burdick,13-Dec-16,Yes,Yes,,Two tissue samples
+DB-GU-0089,Pavona,bipartita,Guam,Ga'an Pt.,,,,,13.388424,144.652774,5,Dave Burdick,6-Jan-17,Yes,Yes,,P. bipartita may not be valid species; aside from colony morphology is nearly identifcal to P. clavus
+DB-GU-0050,Pavona,cactus,Guam,"Big Blue Shoals, Apra Harbor",,,,,13.447906,144.658411,20,Dave Burdick,1-Dec-16,Yes,Yes,,Occurred on west-facing slope; collection depth estimated (likely between 18-22)
+DB-GU-0081,Pavona,"cf. ""contorta""",Guam,"Ski Beach, Apra Harbor",,,,,13.456339,144.665894,7,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0031,Pavona,cf. chiriquiensis,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425003,144.799394,13,Dave Burdick,9-Sep-15,Yes,Yes,,
+DB-GU-0083,Pavona,cf. danai,Guam,"Ski Beach, Apra Harbor",,,,,13.456126,144.665891,8,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0079a,Pavona,cf. divaricata,Guam,"Cabras Breakwater, Apra Harbor",,,,,13.458041,144.630024,8,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0079b,Pavona,cf. divaricata,Guam,"Cabras Breakwater, Apra Harbor",,,,,13.458041,144.630024,8,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0070,Pavona,cf. explanulata,Guam,"Gabgab II, Apra Harbor",,,,,13.445596,144.643444,17,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0054,Pavona,clavus,Guam,Hap's Reef,,,,,13.394138,144.653662,14,Dave Burdick,6-Dec-16,Yes,Yes,,"On reef terrace adjacent to base of Hap's Reef, south side"
+DB-GU-0076,Pavona,duerdeni,Guam,"Cabras Breakwater, Apra Harbor",,,,,13.458452,144.630528,9,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0023,Pavona,meandrina,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425363,144.798937,12,Dave Burdick,2 Sept 2015,Yes,Yes,,
+DB-GU-0059,Pavona,minuta,Guam,Hap's Reef,,,,,13.394169,144.653664,13,Dave Burdick,6-Dec-16,Yes,Yes,,"Growing on shaded, vertical face on south side of reef"
+DB-GU-0045a,Pavona,sp.,Guam,"Big Blue Shoals, Apra Harbor",,,,,13.447989,144.658446,20,Dave Burdick,1-Dec-16,Yes,Yes,,Occurred on west-facing slope; collection depth estimated (likely between 18-22)
+DB-GU-0045b,Pavona,sp.,Guam,"Big Blue Shoals, Apra Harbor",,,,,13.447989,144.658446,20,Dave Burdick,1-Dec-16,No,Yes,,Occurred on west-facing slope; collection depth estimated (likely between 18-22)
+DB-GU-0090,Pavona,sp.,Guam,Ga'an Pt.,,,,,13.388475,144.652793,5,Dave Burdick,6-Jan-17,Yes,Yes,,One of Dick's new species
+DB-GU-0018,Pocillopora,“lobata”,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef front,13.426384,144.798628,4,Dave Burdick,21 May 2015,Yes,Yes,,
+DB-GU-0010,Pocillopora,“nodulosa”,Guam,Pugua Patch Reef (Double Reef),Guam,,,Exposed upper reef front of a double reef formation,13.598481,144.832582,2,Dave Burdick,7 May 2015,Yes,Yes,,
+DB-GU-0078,Pocillopora,"cf. ""coniculus""",Guam,"Cabras Breakwater, Apra Harbor",,,,,13.458135,144.630257,7,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0047,Pocillopora,"cf. ""neudeckeri""",Guam,"Big Blue Shoals, Apra Harbor",,,,,13.447939,144.658510,20,Dave Burdick,1-Dec-16,Yes,Yes,,Occurred on west-facing slope; collection depth estimated (likely between 18-22)
+DB-GU-0065,Pocillopora,"cf. ""neudeckeri""",Guam,"Mound U9, Apra Harbor",,,,,13.449431,144.651925,15,Dave Burdick,9-Dec-16,Yes,Yes,,
+DB-GU-0039,Pocillopora,cf. acuta,Guam,"Marine Lab, Pago Bay",Guam,Marine Lab,,Exposed reef slope,13.425154,144.799474,10,Dave Burdick,2-Oct-15,Yes,Yes,,
+DB-GU-0003,Pocillopora,damicornis,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.245089,144.685412,1.5,Dave Burdick,5 Feb 2015,Yes,Yes,Yes,
+DB-GU-0007,Pocillopora,damicornis,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.245261,144.685772,1.5,Dave Burdick,5 Feb 2015,Yes,,Yes,Voucher specimen missing; only tissue sample remains
+DB-GU-0001,Pocillopora,sp.,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.245462,144.684191,1.5,Dave Burdick,5 Feb 2015,Yes,Yes,Yes,"Lat/long not recorded on-site, approximated in ArcGIS using satellite imagery"
+DB-GU-0002,Pocillopora,sp.,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.245462,144.684191,1.5,Dave Burdick,5 Feb 2015,Yes,Yes,Yes,
+DB-GU-0004,Pocillopora,sp.,Guam,Cocos Lagoon,Guam,Raymundo NSF-RAPID ACHANG-S site,,Reef flat with moderate water movement,13.245204,144.685674,1.5,Dave Burdick,5 Feb 2015,Yes,Yes,Yes,possibly P. ligulata
+DB-GU-0014,Pocillopora,sp.,Guam,Pugua Patch Reef (Double Reef),Guam,,,"Semi-exposed fringing reef, partially protected by double reef formation; specimen found in depression in reef",13.597679,144.836292,1.5,Dave Burdick,7 May 2015,Yes,Yes,,
+DB-GU-0062,Pocillopora,sp.,Guam,"Mound U9, Apra Harbor",,,,,13.449220,144.651841,16,Dave Burdick,9-Dec-16,Yes,Yes,,
+DB-GU-0072,Pocillopora,sp.,Guam,"Gabgab II, Apra Harbor",,,,,13.445428,144.643689,16,Dave Burdick,13-Dec-16,Yes,Yes,,Branch only; two tissue samples from same branch piece
+DB-GU-0013,Pocillopora,woodjonesi,Guam,Pugua Patch Reef (Double Reef),Guam,,,Exposed upper reef front of a double reef formation,13.598532,144.832676,1,Dave Burdick,7 May 2015,Yes,Yes,,
+DB-GU-0087,Porites,cf. horizontalata,Guam,"Ski Beach, Apra Harbor",,,,,13.454083,144.665774,15,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0058,Porites,deformis,Guam,Hap's Reef,,,,,13.394418,144.653896,14,Dave Burdick,6-Dec-16,Yes,Yes,,"On reef terrace adjacent to base of Hap's Reef, north side"
+DB-GU-0056,Porites,vaughani,Guam,Hap's Reef,,,,,13.394157,144.653679,13,Dave Burdick,6-Dec-16,Yes,Yes,,"Growing on shaded, vertical face on south side of reef"
+DB-GU-0067,Psammocora,cf. contigua,Guam,"Western Shoals, Apra Harbor",,,,,13.449768,144.654302,15,Dave Burdick,9-Dec-16,Yes,Yes,,
+DB-GU-0080,Psammocora,cf. haimeana,Guam,"Cabras Breakwater, Apra Harbor",,,,,13.457930,144.629786,8,Dave Burdick,13-Dec-16,Yes,Yes,,"Dick's P. ""loculata""?"
+DB-GU-0088a,Psammocora,cf. obtusangula,Guam,"Ski Beach, Apra Harbor",,,,,13.453966,144.665710,15,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0088b,Psammocora,cf. obtusangula,Guam,"Ski Beach, Apra Harbor",,,,,13.453966,144.665710,15,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0073,Psammocora,digitata,Guam,"Cabras Breakwater, Apra Harbor",,,,,13.459017,144.631732,9,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0052,Psammocora,sp.,Guam,Hap's Reef,,,,,13.394169,144.653664,13,Dave Burdick,6-Dec-16,Yes,Yes,,"Growing on shaded, vertical face on south side of reef"
+DB-GU-0086,Psammocora,sp.,Guam,"Ski Beach, Apra Harbor",,,,,13.454254,144.665833,15,Dave Burdick,13-Dec-16,Yes,Yes,,
+DB-GU-0077,Psammocora,"sp. ""bumpy""",Guam,"Cabras Breakwater, Apra Harbor",,,,,13.458302,144.630396,8,Dave Burdick,13-Dec-16,Yes,Yes,,
