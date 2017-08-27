@@ -3,17 +3,5 @@
 ## Command Reference
 
 ```bash
-cd
-```
-
-```bash
-ls
-```
-
-```bash
-mkdir
-```
-
-```bash
-pwd
+to add...
 ```
