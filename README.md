@@ -19,7 +19,7 @@ ls		# list names of directories and files
 		-S	sort by file size, largest first
 		-t   sort by modification time, newest first
        
-mkdir	# create a directory
+mkdir		# create a directory
 		-p	create parent directories, as necessary
 	
 rm		# remove a file
