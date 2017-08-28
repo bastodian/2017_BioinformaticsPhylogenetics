@@ -27,7 +27,6 @@ rm		# remove a file
 		-v	verbose output
 
 cp		# copy a file to another
-		#
 		-r	(recursive) to copy a directory and its subdirectory to another
 		-v verbose output
       
