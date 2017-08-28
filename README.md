@@ -2,7 +2,7 @@
 
 ## Command Reference
 
-Most Linux tools/programs are documented
+Most Linux tools/programs are documented with man pages:
 ```
 man		# display manual for a command
 		man program
