@@ -2,8 +2,18 @@
 
 ## Command Reference
 
+Most Linux tools/programs are documented
+```
+man		# display manual for a command
+		man program
+		q	quits te manual page
+		/	allows searching manual page for patterns
+		n	moves to the next hit of the pattern search
+		p	moves to the previous hit of the pattern search
+```
+
 Basic commands to navigate the file system:
-```bash
+```
 pwd		# display the path name of the current working directory
 
 cd		# change a current directory to a new directory
