@@ -20,7 +20,7 @@ ls		# list names of directories and files
 		-t   sort by modification time, newest first
        
 mkdir	# create a directory
-	-p	create parent directories, as necessary
+		-p	create parent directories, as necessary
 	
 rm		# remove a file
 		-r	recursive, wll delete directories and their contents
@@ -31,6 +31,6 @@ cp		# copy a file to another
 		-r	(recursive) to copy a directory and its subdirectory to another
 		-v verbose output
       
-mv # move or rename files (and directories)
+mv 		# move or rename files (and directories)
 
 ```
