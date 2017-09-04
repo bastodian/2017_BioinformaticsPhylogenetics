@@ -50,7 +50,7 @@ You will encounter various forms of archives, compressed and uncompressed, when 
 
 
 #### tar archives
-```
+```bash
 tar xvf foo.tar
 ## unpacks the archive foo.tar
 tar xvfz foo.tar.gz
@@ -68,13 +68,13 @@ You may sometimes see a tar archive with a .tgz extension. This is equivalent to
 
 To look at the files in a tar archive without uncompressing use:
 
-```
+```bash
 tar -tf yourfile.tar
 ```
 
 #### gzip Archives
 
-```
+```bash
 gunzip foo.gz
 ## uncompresses the gzip archive foo.gz
 gzip foo.tar
@@ -83,7 +83,7 @@ gzip foo.tar
 
 #### zip Archives
 
-```
+```bash
 unzip foo.zip
 ## uncompresses foo.zip
 ```
