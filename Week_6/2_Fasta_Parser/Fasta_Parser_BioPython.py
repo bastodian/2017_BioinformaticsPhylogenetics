@@ -24,5 +24,3 @@ with open(InFile, 'rU') as FastaFile:
         except Exception:
             stderr.write('>%s\n%s\n' % (str(Record.description), \
                     Seq.Seq(str(Record.seq))))
-
-####
