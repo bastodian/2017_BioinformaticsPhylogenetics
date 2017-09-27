@@ -19,9 +19,10 @@ InFile = argv[1]
 with open(InFile, 'rU') as FastaFile:
     for Record in SeqIO.parse(FastaFile, "fasta"):
         try:
-            Seq.Seq(str(Record.seq)).translate()
             stdout.write('>%s\n%s\n' % (str(Record.description), \
                     Seq.Seq(str(Record.seq))))
         except Exception:
             stderr.write('>%s\n%s\n' % (str(Record.description), \
                     Seq.Seq(str(Record.seq))))
+
+####
