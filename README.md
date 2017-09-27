@@ -1,5 +1,9 @@
 # UOG ML Bioinformatics Course 2017
 
+Office Hours:
+
+Mo, Wed, Fri: 10AM - 12PM (or by appointment)
+
 ## Command Reference
 
 ### Most Linux tools/programs are documented with man pages:
