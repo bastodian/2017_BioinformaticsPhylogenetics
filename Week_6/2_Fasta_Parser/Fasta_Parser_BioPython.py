@@ -10,6 +10,9 @@ from sys import stdout
 from sys import stderr
 from Bio import SeqIO, Seq
 
+# Biopython seems to generate a warning that is reported on stderr
+# for this script that is a problem. So the next lines suppress 
+# Biopython warnings.
 import warnings
 from Bio import BiopythonWarning
 warnings.simplefilter('ignore', BiopythonWarning)
