@@ -993,7 +993,7 @@ begin paup;
 set criterion=like;
 set autoclose=yes;
 set root = outgroup;
-outgroup 9 10;
+outgroup 9 10 27 28;
 set storebrlens=yes;
 set increase=auto;
 log file=RootOfBilateria_ML.log;

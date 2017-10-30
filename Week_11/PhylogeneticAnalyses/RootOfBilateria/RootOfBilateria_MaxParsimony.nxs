@@ -995,20 +995,20 @@ set criterion=parsimony;
 set root=outgroup;
 set storebrlens=yes;
 set increase=auto;
-outgroup 9 10;
+outgroup 9 10 27 28;
 hsearch addseq=random nreps=100 swap=tbr hold=1;
 savetrees file=Bilateria.MP.tree.nex format=altnex brlens=yes;
 contree all /strict=yes treefile=Bilateria.MP.StrictConsensus.tree.nex;
 end;
 
-begin paup;
+[begin paup;
 set autoclose=yes;
 set criterion=parsimony;
 set root=outgroup;
 set storebrlens=yes;
 set increase=auto;
-outgroup 9 10;
+outgroup 9 10 27 28;
 bootstrap nreps=100 search=heuristic/ addseq=random nreps=10 swap=tbr hold=1;
 savetrees from=1 to=1 file=Bilateria.MP.Bootstrap.tree.nex format=altnex brlens=yes savebootp=NodeLabels MaxDecimals=0;
 quit;
-end;
+end;]

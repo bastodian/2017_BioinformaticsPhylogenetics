@@ -155,15 +155,15 @@ hsearch addseq=random nreps=1000 swap=tbr hold=1;
 savetrees file=18S.MP.tree.nex format=altnex brlens=yes;
 end;
 
-#begin paup;
-#
-#set autoclose=yes;
-#set criterion=parsimony;
-#set root=outgroup;
-#set storebrlens=yes;
-#set increase=auto;
-#outgroup Fly;
-#bootstrap nreps=1000 search=heuristic/ addseq=random nreps=10 swap=tbr hold=1;
-#savetrees from=1 to=1 file=18S.MP.Bootstrap.tree.nex format=altnex brlens=yes savebootp=NodeLabels MaxDecimals=0;
-#quit;
-#end;
+[begin paup;
+
+set autoclose=yes;
+set criterion=parsimony;
+set root=outgroup;
+set storebrlens=yes;
+set increase=auto;
+outgroup Fly;
+bootstrap nreps=1000 search=heuristic/ addseq=random nreps=10 swap=tbr hold=1;
+savetrees from=1 to=1 file=18S.MP.Bootstrap.tree.nex format=altnex brlens=yes savebootp=NodeLabels MaxDecimals=0;
+quit;
+end;]
