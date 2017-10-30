@@ -143,21 +143,3 @@ TACTACCGATTGAATGGTTTAGTGAGATCCTCGGATCGTCGGCGTCGGACGGCTTTGCTC
 GCATGTACGAGAAGACGATCAAA
 ;
 END;
-
-BEGIN PAUP;
-
-begin paup;
-set criterion=like;
-set autoclose=yes;
-set root = outgroup;
-outgroup Fly;
-set storebrlens=yes;
-set increase=auto;
-log file=18S_ML.log;
-
-hsearch addseq=random nreps=5 swap=tbr;
-
-savetrees file=18S.ML.tree.nex format=altnex brlens=yes maxdecimals=6;
-
-Lset  Base=equal  Nst=6  Rmat=(1.000000000 4531.911621094 1.273843169 1.770655394 0.604134738)  Rates=gamma  Shape=1.4547  Pinvar=0;
-END;
